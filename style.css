@@ -1,0 +1,136 @@
+html { background-color: #05131d;
+}
+
+body h4 {
+    font-size: 25px;
+    color: #ffffff;
+    font-weight:100;
+    font-family: "Arial Black";
+    position: absolute;
+    left: 60px;
+    top: 90px;
+    }
+body nav a {
+    font-size: 17px;
+    color: #ffffff;
+    font-weight:100;
+    font-family: menu;
+    position: relative;
+    left: 800px;
+    top: 120px;
+    padding-left:0.5cm;
+    
+    }
+body nav div img {
+    width: 20px;
+    height: 20px;
+    border-radius: 50px;
+    background-color: #ffffff;
+    position: relative;
+    left: 300px;
+    bottom: 20px;
+    
+    }
+
+body {
+    min-width: 500px;
+    
+}
+
+body h2 {
+    font-size: 48px;
+    color: #ffffff;
+    font-weight: 500;
+    font-family: "Arial";
+    text-align: right;
+    position: absolute;
+    right: 220px;
+    top: 190px;
+    }
+
+body h1 {
+    font-size: 60px;
+    color: #ffffff;
+    font-weight: 800;
+    font-family: "Arial Black";
+    line-height:110%;
+    text-align: right;
+    position: absolute;
+    right: 220px;
+    top: 255px;
+    }
+
+body h5 {
+    font-size: 12px;
+    color: #ffffff;
+    font-family: italic,'Arial Black';
+    position: absolute;
+    right: 224px;
+    top: 425px;
+    
+    }
+body button {
+        font-size: 12px;
+    color: #06141e;
+    font-weight: 700;
+    font-family: "Arial";
+    text-align: center;
+    width: 120px;
+    height: 38px;
+    border-radius: 49px;
+    background-color: #ffffff;
+    position: absolute;
+    right: 224px;
+    top: 480px;
+    }
+[id="1"] {
+    width: 180px;
+    height: 200px;
+    position: absolute;
+    left: 400px;
+    bottom: 0px;
+    }
+[id="2"] {
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    left: 300px;
+    top: 20px;
+    }
+[id="3"] {
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    left: 10px;
+    bottom: 50px;
+    }
+[id="4"]{
+    width: 350px;
+    height: 350px;
+    position: absolute;
+    left: 700px;
+    top: -10px;
+    }   
+[id="5"] {
+    width: 120px;
+    height: 120px;
+    border-radius: 8px;
+    position: absolute;
+    right: 400px;
+    bottom: 20px;
+    }
+[id="6"] {
+    width: 120px;
+    height: 120px;
+    border-radius: 8px;
+    position: absolute;
+    left: 550px;
+    top: 255px;
+    }
+[id="7"] {
+    width: 60px;
+    height: 60px;
+    position: absolute;
+    left: 120px;
+    top: 310px;
+    }
